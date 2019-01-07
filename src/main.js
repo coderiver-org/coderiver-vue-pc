@@ -19,8 +19,8 @@ import './index.scss';
 /**
  * @description api
  */
-import API from './api/api';
-Vue.prototype.$api = new API('/webapi');
+// import API from './api/api';
+// Vue.prototype.$api = new API('/webapi');
 
 new Vue({
   router,
