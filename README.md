@@ -1,34 +1,5 @@
 # coderiver-vue-pc
 
-## Project setup
-```
-yarn install
-```
+PC端原型设计切图地址：[传送门](https://lanhuapp.com/web/#/item/board?pid=0db1df07-0ef0-444e-aa00-ccfb297b92a2)
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## swagger api文件生成 axios 访问代码工具 [传送门](https://github.com/jadepeng/generator-swagger-2-ts/blob/master/README.cn.md)
