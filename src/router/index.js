@@ -14,6 +14,11 @@ export default new Router({
       component: Layout,
       children: [
         {
+          path: 'test',
+          name: 'test',
+          component: () => import('../components/Footer')
+        },
+        {
           path: '',
           name: 'home',
           component: Home
